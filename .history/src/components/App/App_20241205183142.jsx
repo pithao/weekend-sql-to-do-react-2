@@ -6,7 +6,6 @@ function App () {
   return (
     <div>
       <h1>Giphy App</h1>
-      <Search />
     </div>
   );
 

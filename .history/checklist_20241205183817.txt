@@ -1,0 +1,14 @@
+to do:
+
+capture user search text: hook "searchText"
+
+onClick for search button: searchNow()
+
+GET call to Giphy Api
+
+find the image URLS in the JSON response
+
+..
+..
+
+display all the gifs ont the DOM

@@ -1,0 +1,7 @@
+to do:
+
+capture user search text
+
+onClick for search button
+
+GET call to Giphy Api

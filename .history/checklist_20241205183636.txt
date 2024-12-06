@@ -1,0 +1,6 @@
+to do:
+
+capture user search text
+
+onClick for search button
+
